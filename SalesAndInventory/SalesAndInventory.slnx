@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="SalesAndInventory.BusinessLogic/SalesAndInventory.BusinessLogic.csproj" />
+  <Project Path="SalesAndInventory.DB/SalesAndInventory.DB.sqlproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="SalesAndInventory.Model/SalesAndInventory.Model.csproj" />
+  <Project Path="SalesAndInventory/SalesAndInventory.UI.csproj" />
+</Solution>
